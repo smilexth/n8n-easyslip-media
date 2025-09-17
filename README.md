@@ -6,7 +6,7 @@
 
 ## EasySlip Node คืออะไร?
 
-<img src="resources/easyslip-installed.png" alt="EasySlip Node Interface" width="400"/>
+<center><img src="resources/easyslip-installed.png" alt="EasySlip Node Interface" width="400"/></center>
 
 n8n EasySlip Node เป็น Community Node ที่ใช้งานร่วมกับ n8n (เครื่องมือสำหรับสร้าง Workflow อัตโนมัติ) เพื่อตรวจสอบความถูกต้องของสลิปการโอนเงินผ่าน EasySlip API
 
