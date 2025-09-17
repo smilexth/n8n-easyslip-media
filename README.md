@@ -6,6 +6,8 @@
 
 ## EasySlip Node คืออะไร?
 
+![EasySlip Node Interface](resources/easyslip-node.png)
+
 n8n EasySlip Node เป็น Community Node ที่ใช้งานร่วมกับ n8n (เครื่องมือสำหรับสร้าง Workflow อัตโนมัติ) เพื่อตรวจสอบความถูกต้องของสลิปการโอนเงินผ่าน EasySlip API
 
 **ความสามารถหลักที่น่าสนใจ:**

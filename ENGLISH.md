@@ -6,6 +6,8 @@ If yes, then this article is written specifically for you! Today, we'll introduc
 
 ## What is the EasySlip Node?
 
+![EasySlip Node Interface](resources/easyslip-node.png)
+
 The n8n EasySlip Node is a Community Node that works with n8n (a workflow automation tool) to verify the authenticity of bank transfer slips through the EasySlip API.
 
 **Key Impressive Capabilities:**
