@@ -1,4 +1,4 @@
-# n8n EasySlip Node: Transform Tedious Slip Verification Into Powerful Automation
+# n8n EasySlip Node: Transform Manual Slip Verification Into Powerful Automation
 
 Have you ever faced this problem? Customers send payment slips via LINE, and you have to manually check each one to verify if the transfer is genuine. Sometimes you encounter fake slips, sometimes customers send old duplicate slips, or you might even have to manually record payment data into Excel one by one 😫
 
